@@ -1,3 +1,5 @@
-# Applied-Machine-Learning-in-Python-by-University-of-Michigan
+Applied-Machine-Learning-in-Python-by-University-of-Michigan 
+Link: https://www.coursera.org/learn/python-machine-learning/home/
 
-The course undertake various ML algorithms to account.
+
+
